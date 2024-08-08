@@ -2,17 +2,19 @@
 
 ## Hola! Bienvenido, Soy Rosangel 👋
 
-<div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200"/>
-</div>
 
-# 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="200"/>
+
 </div>
 
 <h2 align="left">👩🏻‍💻 Sobre mí:</h2>
 
-- 🖥️ Desarrolladora Full Stack 
+- 🖥️ Desarrolladora Full Stack
 - 📍 Actualmente en Santiago, Chile
+- 🤝🏼🤍Empática, responsable, honesta, amo el deporte y la música, pasión por el running 🏃🏻‍♀️
+- 📚 Apasionada por la tecnología y el constante aprendizaje
+- 👩🏻‍🏫 Me encuentro explorando nuevas herramientas para mejorar mis habilidades como desarrolladora
+
 <br>
 
 ## 📩 Contáctame 
